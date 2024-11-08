@@ -1,0 +1,63 @@
+[
+ {
+  "num": "01",
+  "nombre": "Bulbasaur",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/001.png",
+  "tipo": "Planta y veneno"
+ },
+{
+  "num": "02",
+  "nombre": "Ivysaur",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/002.png",
+  "tipo": "Planta y veneno"
+ },
+{
+  "num": "03",
+  "nombre": "Venusaur",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/003.png",
+  "tipo": "Planta y veneno"
+ },
+{
+  "num": "04",
+  "nombre": "Charmander",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/004.png",
+  "tipo": "Fuego"
+ },
+{
+  "num": "05",
+  "nombre": "Charmeleon",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/005.png",
+  "tipo": "Fuego"
+ },
+{
+  "num": "06",
+  "nombre": "Charizard",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/001.png",
+  "tipo": "Fuego y Volador"
+ },
+{
+  "num": "07",
+  "nombre": "Squirtle",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/007.png",
+  "tipo": "Agua"
+ },
+{
+  "num": "08",
+  "nombre": "Wartortle",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/008.png",
+  "tipo": "Agua"
+ },
+{
+  "num": "09",
+  "nombre": "Blastoise",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/009.png",
+  "tipo": "Planta y veneno"
+ },
+{
+  "num": "10",
+  "nombre": "Caterpie",
+  "imagen": "http://www.serebii.net/pokemongo/pokemon/010.png",
+  "tipo": "Bicho"
+ }
+]
+
